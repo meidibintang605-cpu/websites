@@ -1,9 +1,9 @@
 # User manual
-
+Bintang 
 [[toc]]
-
+....
 ## Start Shizuku
-
+ya
 Shizuku supports startup in the following three ways.
 
 ::: tip If you are using GrapheneOS
